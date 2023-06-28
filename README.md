@@ -51,7 +51,7 @@ To deploy the application to Heroku, make sure you have a Heroku account and the
 ## Links 
 -   The URL of the functional, deployed application: https://pure-harbor-87285-3052a2b8bba0.herokuapp.com/
     
--   The URL of the GitHub repository. Give the repository a unique name and include a README describing the project:
+-   The URL of the GitHub repository: https://github.com/hutgib2/Challenge-Text-Editor
 
 ## Credits
 
